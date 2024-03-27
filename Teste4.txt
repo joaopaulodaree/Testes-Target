@@ -1,0 +1,5 @@
+O truque por trás desse problema é a temperatura das lâmpadas.
+Posso ligar um interruptor, esperar algum tempo e desligá-lo. Depois, ligo outro e vou até a sala das lâmpadas.
+A lâmpada apagada que estiver quente representa o primeiro interruptor que liguei.
+Logo, a lâmpada apagada fria representa o interruptor que não liguei.
+E obviamente, a lâmpada que está acessa representa o interruptor que liguei logo antes de entrar na sala.
